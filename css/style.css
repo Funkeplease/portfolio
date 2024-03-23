@@ -539,6 +539,11 @@ mark,
   height: auto;
 }
 
+.img-width-height {
+  width: 250px;
+  height: 250px;
+}
+
 .figure {
   display: inline-block;
 }
